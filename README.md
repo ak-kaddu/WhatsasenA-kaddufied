@@ -64,7 +64,7 @@ the user is responsible.
 ```
 
 <div align = "center">
-  <img src = "https:https://i.ibb.co/wYCtBJr/IMG-20210617-WA0022.jpg" width = "200" height = "200">
+  <img src = "https://i.ibb.co/9G2Pcw3/IMG-20210617-WA0022.jpg" width = "200" height = "200">
   <h1> 🐺 WhatsAsenaPublic </h1>
 </div>
 <p align = "center">
