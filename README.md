@@ -12,7 +12,7 @@
 
 **[@Phaticusthiccy](https://github.com/Phaticusthiccy)**
 
-**[@TOXIC-DEVIL](https://github.com/TOXIC-DEVIL)**
+**[@ak-kaddu](https://github.com/ak-kaddu)**
 
 ### What Is WhatsAsenaPublic
 
@@ -20,7 +20,7 @@
 
 **▪︎ You Have the All Rights To Re-Edit This Ropo**
 
-**▪︎Made By [TOXIC DEVIL](https://github.com/TOXIC-DEVIL)**
+**▪︎Made By [AK KADDU](https://github.com/ak-kaddu)**
 
 **▪︎Added More Commands**
 
@@ -28,7 +28,7 @@
 
 ### How To Set Up WhatsAsenaPublic
 
-**¤ To Set Up WhatsAsenaPublic Just [Click Here](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic#Simple-Method)**
+**¤ To Set Up WhatsAsenaPublic Just [Click Here](https://github.com/ak-kaddu/WhatsasenA-kaddufied#Simple-Method)**
 
 ```
 Asena; Asena UserBot are names representing WhatsAsena software, they can be used interchangeably in the rest of the article.
@@ -68,7 +68,7 @@ the user is responsible.
   <h1> 🐺 WhatsAsenaPublic </h1>
 </div>
 <p align = "center">
-    WhatsAsenaPublic - Made By Toxic Devil.
+    WhatsAsenaPublic - Made By AK-KADDU.
     <br>
 
 ### Simple Method
@@ -80,7 +80,7 @@ the user is responsible.
 
 ### The Hard Method
 ``` js
-$ git clone https://github.com/TOXIC-DEVIL/WhatsAsenaPublic.git
+$ git clone https://github.com/ak-kaddu/WhatsasenA-kaddufied.git
 $ cd WhatsAsenaPublic
 $ npm i @adiwajshing/baileys
 $ npm i chalk
