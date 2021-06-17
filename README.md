@@ -1,12 +1,12 @@
 ### Jump To
 
-**■ To Know What is WhatsAsenaPublic, Just [Click Here](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic#What-Is-WhatsAsenaPublic)**
+**■ To Know What is WhatsAsenaPublic, Just [Click Here](https://github.com/ak-kaddu/WhatsasenA-kaddufied#What-Is-WhatsAsenaPublic)**
 
-**■ To Know Features of WhatsAsenaPublic, Just [Click Here](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic#Features)**
+**■ To Know Features of WhatsAsenaPublic, Just [Click Here](https://github.com/ak-kaddu/WhatsasenA-kaddufied#Features)**
 
-**■ To Know WhatsNew Updated last in WhatsAsenaPublic, Just [Click Here](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic#WhatsNew)**
+**■ To Know WhatsNew Updated last in WhatsAsenaPublic, Just [Click Here](https://github.com/ak-kaddu/WhatsasenA-kaddufied#WhatsNew)**
 
-**■ To Set Up WhatsAsenaPublic, Just [Click Here](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic#How-To-Set-Up-WhatsAsenaPublic)**
+**■ To Set Up WhatsAsenaPublic, Just [Click Here](https://github.com/ak-kaddu/WhatsasenA-kaddufied#How-To-Set-Up-WhatsAsenaPublic)**
 
 ### Special Thanks To:
 
@@ -16,7 +16,7 @@
 
 ### What Is WhatsAsenaPublic
 
-**▪︎The [Public Version](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic) Of [WhatsAsenaDuplicated](https://github.com/Phaticusthiccy/WhatsAsenaDuplicated) [ First Release which Deployed On Heroku ] 🐺**
+**▪︎The [Public Version](https://github.com/ak-kaddu/WhatsasenA-kaddufied) Of [WhatsAsenaDuplicated](https://github.com/Phaticusthiccy/WhatsAsenaDuplicated) [ First Release which Deployed On Heroku ] 🐺**
 
 **▪︎ You Have the All Rights To Re-Edit This Ropo**
 
@@ -64,7 +64,7 @@ the user is responsible.
 ```
 
 <div align = "center">
-  <img src = "https://i.ibb.co/9H56Ct5/20210305-083215.jpg" width = "200" height = "200">
+  <img src = "https:https://i.ibb.co/wYCtBJr/IMG-20210617-WA0022.jpg" width = "200" height = "200">
   <h1> 🐺 WhatsAsenaPublic </h1>
 </div>
 <p align = "center">
