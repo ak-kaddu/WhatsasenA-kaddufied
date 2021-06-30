@@ -18,7 +18,7 @@ const Lang = Language.getString('tagall');
     return sonuc.includes(true);
 }
 
-Asena.addCommand({pattern: 'tagall', fromMe: true, desc: Lang.TAGALL_DESC}, (async (message, match) => {
+Asena.addCommand({pattern: 'tagall', fromMe: false, desc: Lang.TAGALL_DESC}, (async (message, match) => {
 
 
     grup = await message.client.groupMetadata(message.jid);
