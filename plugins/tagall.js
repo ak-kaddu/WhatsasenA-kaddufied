@@ -10,8 +10,8 @@ const {MessageType} = require('@adiwajshing/baileys');
 const Language = require('../language');
 const Lang = Language.getString('tagall');
 
-(async (message,match) => user = message.client.user.jid) {
-    let grup = await message.client.groupMetadata(message.jid);
+async function checkImAdmin(message, user = message.client.user.jid) {
+    var grup = await message.client.groupMetadata(message.jid);
     var sonuc = grup['participants'].map((member) => {
         if (member.id.split('@')[0] === user.split('@')[0] && member.isAdmin) return true; else; return false;
     });
@@ -19,6 +19,10 @@ const Lang = Language.getString('tagall');
 }
 
 Asena.addCommand({pattern: 'tagall', fromMe: false, desc: Lang.TAGALL_DESC}, (async (message, match) => {
+
+   var im = await checkImAdmin(message);
+   if (!im) return await message.client.sendMessage(message.jid,Lang.ADMİN,MessageType.text);
+
     grup = await message.client.groupMetadata(message.jid);
     var jids = [];
     mesaj = '';
